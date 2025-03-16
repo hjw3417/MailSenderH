@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSenderH", "MailSenderH\MailSenderH.csproj", "{4079F6F7-149A-4503-81AD-7DA9820318CB}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MailSenderHSetUp", "MailSenderHSetUp\MailSenderHSetUp.vdproj", "{E324A025-760C-1C07-C1AE-E75D5F0A74C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}"
+	ProjectSection(SolutionItems) = preProject
+		MailSenderH 프로젝트 개요.docx = MailSenderH 프로젝트 개요.docx
+		table 생성정보.sql = table 생성정보.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
